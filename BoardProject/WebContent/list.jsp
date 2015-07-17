@@ -11,6 +11,7 @@
 <title>목록보기</title>
 </head>
 <body>
+	
 	<table border="1">
 		<!-- 검색 -->
 		<tr>
